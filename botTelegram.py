@@ -3,7 +3,7 @@ import os
 import json
 from usersManger import *
 
-BOT_TOKEN = '6906120319:AAGcdv8JCg5zjWgksXk7pCNm-VfqPP3mw7Q'
+BOT_TOKEN = ''
 bot = telebot.TeleBot(BOT_TOKEN)
 
 
